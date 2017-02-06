@@ -4,6 +4,9 @@
 *.o
 *.exe
 
+# where I put CMake builds
+build/
+
 # /
 /autom4te*.cache
 /clang
